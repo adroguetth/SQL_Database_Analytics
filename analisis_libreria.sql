@@ -23,7 +23,7 @@ WITH Caracteristicas_libros AS (
         b.nombre AS autor,
         c.nombre_categoria AS categoria_libro
     FROM Libros a
-    INNER JOIN Autores b ON a.id_autor = b.id_autor  -- Corregido: b.id_autor en lugar de b.id.autor
+    INNER JOIN Autores b ON a.id_autor = b.id_autor
     INNER JOIN Categorias c ON a.id_categoria = c.id_categoria
 ),
 Ventas_unitarias AS (
@@ -72,7 +72,7 @@ pedidos_recientes AS (
 clientes_recurrentes AS (
     SELECT
         id_cliente,
-        COUNT(id_pedido) AS total_pedidos  -- Agregado: contar pedidos para referencia
+        COUNT(id_pedido) AS total_pedidos  -- Contar pedidos para referencia
     FROM pedidos_recientes
     GROUP BY id_cliente
     HAVING COUNT(id_pedido) >= 3  -- Criterio de recurrencia: ≥3 pedidos
@@ -98,7 +98,7 @@ promedio_por_cliente AS (
         c.id_cliente,
         c.total_pedidos,  -- Incluir métrica de recurrencia
         AVG(d.valor_total_pedido) AS promedio_valor_pedido,
-        SUM(d.valor_total_pedido) AS valor_total_cliente  -- Agregado: valor total del cliente
+        SUM(d.valor_total_pedido) AS valor_total_cliente  -- Valor total del cliente
     FROM clientes_recurrentes c
     JOIN valor_pedidos d ON c.id_cliente = d.id_cliente
     GROUP BY c.id_cliente, c.total_pedidos
