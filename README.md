@@ -43,15 +43,6 @@ Este proyecto utiliza Common Table Expressions (CTEs) para identificar a los aut
 | `analisis_libreria.sql` | Consultas formato SQL |
 | `README.md` | Este archivo |
 
-
-| Archivo | Descripción |
-|---------|---------|
-| (PostgreSQL +14) Análisis de Gasto de Clientes .sql| Consultas para PostgreSQL |
-| (SQL Server + 2012) Análisis de Gasto de Clientes .sql | Consultas para SQL Server |
-| Diagrama ER.png | Modelo entidad-relación |
-| Documentacion (v1.0).pdf| Documentación técnica |
-| README.md | Este archivo |
-
 ## 🏆 Resultados de Negocio
 
 **Hallazgos Clave:**
