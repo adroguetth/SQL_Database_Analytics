@@ -1,7 +1,7 @@
-# 📊 Análisis Avanzado de Librería
+# 📊 Análisis de Ventas de Librería
 
 ## 🎯 Descripción del Proyecto
-Análisis SQL avanzado de una librería utilizando Common Table Expressions (CTEs) para identificar autores más vendidos y clientes recurrentes. Este proyecto demuestra técnicas modernas de análisis de datos con enfoque en modularidad, performance y business intelligence.
+Este proyecto utiliza Common Table Expressions (CTEs) para identificar a los autores más vendidos y a los clientes recurrentes.  Demuestra técnicas modernas de análisis de datos, con énfasis en modularidad, rendimiento y business intelligence.
 
 ## 🚀 Características Principales
 
