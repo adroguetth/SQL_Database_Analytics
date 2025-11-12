@@ -36,7 +36,7 @@ Este proyecto utiliza Common Table Expressions (CTEs) para identificar a los aut
 
 | Archivo | Descripción |
 |---------|-------------|
-| `Diagrama ER.svg` | Modelo entidad-relación |
+| `Diagrama ER.png` | Modelo entidad-relación |
 | `Documentacion.pdf` | Documentación técnica |
 | `Esquema CTE: CONSULTA 1.svg` | Esquema consulta N°1: Ventas por Autor  |
 | `Esquema CTE: CONSULTA 2.svg` | Esquema consulta N°2: Clientes Recurrentes |
