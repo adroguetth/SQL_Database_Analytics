@@ -1,4 +1,4 @@
-# 📊 Análisis de Ventas de Librería
+# 📚 Análisis de Ventas de Librería
 
 ## 🎯 Descripción del Proyecto
 Este proyecto utiliza Common Table Expressions (CTEs) para identificar a los autores más vendidos y a los clientes recurrentes.  Demuestra técnicas modernas de análisis de datos, con énfasis en modularidad, rendimiento y business intelligence.
