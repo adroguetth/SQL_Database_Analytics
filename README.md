@@ -1,1 +1,111 @@
-# An-lisis-de-Ventas-de-Librer-a
+# 📊 Análisis Avanzado de Librería
+
+## 🎯 Descripción del Proyecto
+Análisis SQL avanzado de una librería utilizando Common Table Expressions (CTEs) para identificar autores más vendidos y clientes recurrentes. Este proyecto demuestra técnicas modernas de análisis de datos con enfoque en modularidad, performance y business intelligence.
+
+## 🚀 Características Principales
+
+### 🔍 Análisis Implementado
+- **Ventas por Autor**: Identificación de autores con ventas > $500 en categorías premium (Ficción, Misterio)
+- **Clientes Recurrentes**: Segmentación de clientes VIP con ≥3 pedidos en el último año
+- **Métricas de Negocio**: Análisis completo de ventas, autores y comportamiento de clientes
+- **Segmentación Avanzada**: Categorización automática 🏆 VIP, ⭐ Recurrente, 🔹 Activo
+
+### ⚡ Optimizaciones Técnicas
+- Arquitectura modular con múltiples CTEs
+- Filtros temporales optimizados (`DATE('now', '-1 year')`)
+- Agregaciones eficientes con cláusulas HAVING
+- Índices recomendados para alta performance
+
+## 🛠️ Stack Tecnológico
+
+**Bases de Datos:**
+- SQLite (primario)
+- PostgreSQL
+- MySQL
+- SQL Server
+
+**Características SQL:**
+- Common Table Expressions (CTEs)
+- JOINs optimizados
+- Funciones de agregación
+- Segmentación con CASE
+- Filtros temporales
+
+## 📁 Estructura del Proyecto
+
+| Archivo | Descripción |
+|---------|-------------|
+| `Diagrama ER.svg` | Modelo entidad-relación |
+| `Documentacion.pdf` | Documentación técnica |
+| `Esquema CTE: CONSULTA 1.svg` | Esquema consulta N°1: Ventas por Autor  |
+| `Esquema CTE: CONSULTA 2.svg` | Esquema consulta N°2: Clientes Recurrentes |
+| `analisis_libreria.sql` | Consultas formato SQL |
+| `README.md` | Este archivo |
+
+
+| Archivo | Descripción |
+|---------|---------|
+| (PostgreSQL +14) Análisis de Gasto de Clientes .sql| Consultas para PostgreSQL |
+| (SQL Server + 2012) Análisis de Gasto de Clientes .sql | Consultas para SQL Server |
+| Diagrama ER.png | Modelo entidad-relación |
+| Documentacion (v1.0).pdf| Documentación técnica |
+| README.md | Este archivo |
+
+## 🏆 Resultados de Negocio
+
+**Hallazgos Clave:**
+- Autores más rentables en categorías premium
+- Clientes VIP por ciudad con mayor valor de compra
+- Segmentación natural basada en comportamiento
+- Métricas de performance del negocio
+
+**Decisiones Habilitadas:**
+- Estrategias de adquisición de clientes
+- Optimización del catálogo de libros
+- Programas de fidelización segmentados
+- Asignación de presupuestos por categoría
+
+## 🚀 Cómo Usar
+
+1. **Ejecutar el script SQL** en tu motor de base de datos preferido
+2. **Revisar índices recomendados** para optimizar performance
+3. **Adaptar filtros temporales** según necesidades específicas
+4. **Integrar con herramientas BI** para visualización avanzada
+
+## ⚡ Métricas de Performance
+
+| Consulta | Tiempo Esperado | Escalabilidad |
+|----------|-----------------|---------------|
+| Ventas por Autor | < 100ms | Hasta 50K registros |
+| Clientes Recurrentes | < 200ms | Hasta 100K registros |
+
+## ✅ Best Practices Implementadas
+
+- ✅ Documentación clara y comentada
+- ✅ Consultas modulares con CTEs
+- ✅ Optimización con índices estratégicos
+- ✅ Validación de integridad referencial
+- ✅ Segmentación basada en métricas de negocio
+
+## 🔗 Enlaces Relacionados
+
+- 🌐 **Portafolio Completo**: [https://www.adroguett-portfolio.cl/]
+- 📊 **Proyecto en Línea**: [https://www.adroguett-portfolio.cl/SQL/SQL-libreria]
+- 📧 **Contacto**: [adroguetth@gmail.com]
+
+## 💼 Habilidades Demostradas
+
+- SQL Avanzado con Common Table Expressions
+- Análisis de Negocio y Segmentación de Clientes
+- Optimización de Performance en Consultas
+- Documentación Técnica Profesional
+- Diseño de Arquitecturas de Consultas Modulares
+- Business Intelligence con SQL Puro
+
+---
+
+**¿Interesado en análisis de datos?** ¡Contáctame para oportunidades en business intelligence y análisis avanzado con SQL!
+
+---
+*Documentación para portafolio técnico - Enfoque en análisis accionable y mejores prácticas de SQL*
