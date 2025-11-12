@@ -4,7 +4,7 @@ Transformando datos en decisiones estratégicas de negocio
 
 ---
 
-## 📊 Proyecto 1: Análisis Avanzado de Librería
+## 📊 Proyecto 1: Análisis de Ventas de Librería
 
 **Análisis de ventas y clientes recurrentes usando Common Table Expressions**  
 Proyecto que demuestra técnicas avanzadas de SQL con CTEs para identificar autores más vendidos y segmentar clientes VIP, mostrando arquitecturas modulares y optimización de consultas para business intelligence.
