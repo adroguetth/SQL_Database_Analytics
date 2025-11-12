@@ -20,7 +20,7 @@ Este proyecto utiliza Common Table Expressions (CTEs) para identificar a los aut
 ## 🛠️ Stack Tecnológico
 
 **Bases de Datos:**
-- SQLite (primario)
+- SQLite
 - PostgreSQL
 - MySQL
 - SQL Server
