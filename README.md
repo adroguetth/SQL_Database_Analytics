@@ -21,9 +21,6 @@ Este proyecto utiliza Common Table Expressions (CTEs) para identificar a los aut
 
 **Bases de Datos:**
 - SQLite
-- PostgreSQL
-- MySQL
-- SQL Server
 
 **Características SQL:**
 - Common Table Expressions (CTEs)
@@ -43,11 +40,6 @@ Este proyecto utiliza Common Table Expressions (CTEs) para identificar a los aut
 | **Esquema CTE: CONSULTA 2.png** | Esquema consulta N°2: Clientes Recurrentes  | [Ver imagen](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/Esquema%20CTE:%20CONSULTA%202.png) |
 | **Código Principal** | Script SQL con consultas CTEs | [Ver código](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/analisis_libreria.sql) |
 | **README.md** | Este archivo | - |
-
-
-
-
-
 
 ## 🏆 Resultados de Negocio
 
