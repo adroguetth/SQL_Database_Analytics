@@ -13,7 +13,6 @@ Proyecto que demuestra técnicas avanzadas de SQL con CTEs para identificar auto
 - **Arquitectura modular**: Múltiples CTEs para análisis escalable
 - **Segmentación avanzada**: Categorización 🏆 VIP, ⭐ Recurrente, 🔹 Activo
 - **Optimización performance**: Índices estratégicos y consultas eficientes
-- **Multi-plataforma**: Compatible con SQLite, PostgreSQL, MySQL, SQL Server
 
 ### 📁 Recursos Disponibles
 
