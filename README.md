@@ -19,7 +19,7 @@ Proyecto que demuestra técnicas avanzadas de SQL con CTEs para identificar auto
 | Recurso | Descripción | Enlace |
 |---------|-------------|--------|
 | **Repositorio Completo** | Todo el código y documentación | [Ver proyecto](https://github.com/adroguetth/SQL_Database_Analytics/tree/Analisis_de_Ventas_de_Libreria) |
-| **Código Principal** | Script SQL con consultas CTEs | [Ver código](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/analisis_libreria.sql) |
+| **Código Principal - Compatible con SQLite** | Script SQL con consultas CTEs | [Ver código](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/analisis_libreria.sql) |
 | **Documentación Técnica** | Análisis completo y diagramas de flujo | [Descargar PDF](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/Documentacion.pdf) |
 | **Diagrama ER** | Modelo de datos del proyecto | [Ver imagen](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/Diagrama%20ER.png) |
 | **Portafolio Web** | Proyecto en línea con demostración | [Ver en web](https://www.adroguett-portfolio.cl/SQL/SQL-libreria) |
