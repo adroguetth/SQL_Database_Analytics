@@ -38,7 +38,7 @@ Este proyecto utiliza Common Table Expressions (CTEs) para identificar a los aut
 | **Documentación Técnica** | Análisis completo | [Descargar PDF](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/Documentacion.pdf) |
 | **Esquema CTE: CONSULTA 1.png** | Esquema consulta N°1: Ventas por Autor  | [Ver imagen](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/Esquema%20CTE:%20CONSULTA%201.png) |
 | **Esquema CTE: CONSULTA 2.png** | Esquema consulta N°2: Clientes Recurrentes  | [Ver imagen](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/Esquema%20CTE:%20CONSULTA%202.png) |
-| **Código Principal** | Script SQL con consultas CTEs | [Ver código](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/analisis_libreria.sql) |
+| **Código Principal - Compatible con SQLite** | Script SQL con consultas CTEs | [Ver código](https://github.com/adroguetth/SQL_Database_Analytics/blob/Analisis_de_Ventas_de_Libreria/analisis_libreria.sql) |
 | **README.md** | Este archivo | - |
 
 ## 🏆 Resultados de Negocio
