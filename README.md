@@ -30,8 +30,6 @@ Proyecto que demuestra técnicas avanzadas de SQL con CTEs para identificar auto
 - ✅ **Segmentación automática**: Clientes VIP por valor y frecuencia
 - ✅ **Análisis categorías premium**: Ficción y Misterio > $500 por autor
 - ✅ **Arquitectura escalable**: CTEs modulares para mantenibilidad
-- ✅ **Compatibilidad multi-BD**: SQLite, PostgreSQL, MySQL, SQL Server
-
 ---
 
 ### 🌐 Conéctate Conmigo
